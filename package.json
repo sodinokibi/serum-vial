@@ -40,7 +40,7 @@
   "dependencies": {
     "@blockworks-foundation/mango-client": "^3.3.18",
     "@project-serum/serum": "^0.13.65",
-    "@solana/web3.js": "^1.53.0",
+    "@solana/web3.js": "^1.91.1",
     "@types/bintrees": "^1.0.3",
     "@types/bn.js": "^5.1.0",
     "abort-controller": "^3.0.0",
